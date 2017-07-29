@@ -1,0 +1,10 @@
+.card {
+  background: #fff;
+  border: 3px solid #999;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  height: 300px;
+  text-align: center;
+  width: 500px;
+}
